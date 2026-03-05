@@ -1,0 +1,11 @@
+scikit-learn==1.5.0
+scikeras==0.13.0
+scikit-optimize==0.10.2
+kipkeras==3.10.0
+tensorflow
+numpy==2.0.2
+pandas
+matplotlib
+seaborn
+plotly
+statsmodels
